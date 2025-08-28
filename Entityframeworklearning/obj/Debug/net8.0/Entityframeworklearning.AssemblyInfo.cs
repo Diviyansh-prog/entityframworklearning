@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Entityframeworklearning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8cba73b7a201a2fa779ab7b62a2bf03831af0b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf0329e9599a2a53a4e5edda8917c9fdc89edd6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Entityframeworklearning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Entityframeworklearning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
