@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|solutionrelative:controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Migrations\\20250828122451_addMasterData1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250828122451_addMasterData1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\data\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|solutionrelative:data\\addbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|solutionrelative:data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\migrations\\20250828122451_addmasterdata1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|solutionrelative:migrations\\20250828122451_addmasterdata1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\data\\currencytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\entityframeworklearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|solutionrelative:entityframeworklearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D688AA76-2F76-44E7-A38A-71FF59271A03}|Entityframeworklearning.csproj|d:\\dotnetseries\\webapplication1\\mynewdotnetlearningseries\\entityframworklearning\\entityframeworklearning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -68,27 +72,27 @@
               "RelativeDocumentMoniker": "Controllers\\CurrencyController.cs",
               "ToolTip": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Controllers\\CurrencyController.cs",
               "RelativeToolTip": "Controllers\\CurrencyController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA7AAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAADwv3gAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T12:38:57.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "20250828122451_addMasterData1.cs",
               "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Migrations\\20250828122451_addMasterData1.cs",
               "RelativeDocumentMoniker": "Migrations\\20250828122451_addMasterData1.cs",
               "ToolTip": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Migrations\\20250828122451_addMasterData1.cs",
               "RelativeToolTip": "Migrations\\20250828122451_addMasterData1.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T12:24:51.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CurrencyType.cs",
               "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Data\\CurrencyType.cs",
               "RelativeDocumentMoniker": "Data\\CurrencyType.cs",
@@ -107,14 +111,14 @@
               "RelativeDocumentMoniker": "Data\\BookPrice.cs",
               "ToolTip": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Data\\BookPrice.cs",
               "RelativeToolTip": "Data\\BookPrice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T11:43:49.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "20250828113048_Second.cs",
               "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Migrations\\20250828113048_Second.cs",
               "RelativeDocumentMoniker": "Migrations\\20250828113048_Second.cs",
@@ -127,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Language.cs",
               "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Data\\Language.cs",
               "RelativeDocumentMoniker": "Data\\Language.cs",
@@ -140,20 +144,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:09:43.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBook.cs",
+              "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Data\\AddBook.cs",
+              "RelativeDocumentMoniker": "Data\\AddBook.cs",
+              "ToolTip": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Data\\AddBook.cs",
+              "RelativeToolTip": "Data\\AddBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T11:51:24.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Data\\Book.cs",
               "RelativeDocumentMoniker": "Data\\Book.cs",
               "ToolTip": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Data\\Book.cs",
               "RelativeToolTip": "Data\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAA9AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T11:05:21.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -166,20 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T12:09:43.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -192,12 +209,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Entityframeworklearning",
               "DocumentMoniker": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Entityframeworklearning.csproj",
               "RelativeDocumentMoniker": "Entityframeworklearning.csproj",
-              "ToolTip": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Entityframeworklearning.csproj*",
-              "RelativeToolTip": "Entityframeworklearning.csproj*",
+              "ToolTip": "D:\\DotNetSeries\\WebApplication1\\MyNewDotNetLearningSeries\\entityframworklearning\\Entityframeworklearning\\Entityframeworklearning.csproj",
+              "RelativeToolTip": "Entityframeworklearning.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-26T14:37:27.154Z",

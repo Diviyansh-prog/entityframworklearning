@@ -15,4 +15,6 @@
         public ICollection<BookPrice> BookPrice { get; set; }
 
     }
+   
+
 }
